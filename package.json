@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --dist-dir build --public-url /desf-piedra-papel-tijera",
+    "build": "parcel build src/index.html --dist-dir build --public-url /Desf-Piedra-Papel-Tijera",
     "deploy": "gh-pages -d ./build"
   },
   "keywords": [],
