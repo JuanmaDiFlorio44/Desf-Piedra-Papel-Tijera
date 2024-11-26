@@ -1,4 +1,4 @@
-5330
+5480
 117C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\dom-serializer\lib\index.d.ts.map133770948276235248 0
 79C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@msgpackr-extract133770948676062032 1
 116C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133770948355246869 0
@@ -6,7 +6,7 @@
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_new_arrow_check.js133770948423600223 0
 104C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\input-search.js133770948521473665 0
 83C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\trim-repeated\license133770947629225362 0
-61C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\package.json133770949693736222 0
+61C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\package.json133770952844539201 0
 104C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\css3-tabsize.js133770948452632847 0
 71C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\dist\index.b71e74eb.js133770949098582999 0
 68C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@lezer133770948160635796 1
@@ -19,7 +19,7 @@
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-babel\src\config.js133770948269426838 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\p-try\package.json133770947617311596 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\IL.js133770948510391183 0
-59C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\.gitignore133770948226888397 0
+59C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\.gitignore133770950148899176 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\PS.js133770948578708470 0
 77C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\reusify\LICENSE133770947632528904 0
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\cosmiconfig\dist\defaults.js.map133770948291584038 0
@@ -34,14 +34,14 @@
 74C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\domutils\lib133770948351406977 1
 84C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\globby\stream-utils.js133770947632788869 0
 97C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lmdb\dependencies\lz4\lib\lz4file.c133770948304416371 0
-54C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build133770949738411161 1
+54C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build133770953267685199 1
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\escape-string-regexp\index.js133770947617562050 0
 128C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-postcss\node_modules\semver\ranges\simplify.js133770948312576176 0
 66C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\package-lock.json133770948677242536 0
 84C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\update-browserslist-db133770948261326841 1
 112C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\entities\lib\decode.d.ts.map133770948288436836 0
 114C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133770948423100521 0
-61C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules133770948676072041 1
+61C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules133770949793054386 1
 78C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\license133770948217803766 0
 52C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\src133770946222540716 1
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\serviceworkers.js133770948590013528 0
@@ -61,6 +61,7 @@
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\cargoQueue.js133770947635687383 0
 72C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\color-name133770948225157672 1
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_decorate133770948434931720 1
+177C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\logs\refs\remotes\origin\gh-pages133770950748730320 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\shared-buffer.js133770948355831230 0
 77C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\src\assets\Tijera-objeto.png133767717992216612 0
 76C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\dotenv\LICENSE133770948217783772 0
@@ -122,6 +123,7 @@
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\chrome-trace-event133770948238491413 1
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\settings.d.ts133770947635177637 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\import-fresh\index.d.ts133770948233608610 0
+171C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\applypatch-msg.sample133770949816555547 0
 142C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1133770948591875079 0
 70C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\src\pages\HomePage.ts133767683117630459 0
 113C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\types-internal\lib\DependencySpecifier.d.ts133770948291370067 0
@@ -162,6 +164,7 @@
 90C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlparser2\lib\index.js.map133770948283642400 0
 72C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\src\components\Contador133770946222470760 1
 70C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib133770947604685300 1
+168C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\logs\refs\remotes\origin133770950748710331 1
 84C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\src\components\Contador\contador.ts133767673236499977 0
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr-extract\README.md133770948242367088 0
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\tslib\modules133770948276062046 1
@@ -198,6 +201,11 @@
 92C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fs-extra\lib\ensure\symlink.js133770947635387536 0
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlnano\lib\modules\mergeScripts.mjs133770948356090899 0
 66C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.bin133770948591845101 1
+124C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\package.json133770948292354986 0
+80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\anySeries.js133770947633544009 0
+81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\Tijera-objeto.636e5577.png133770949736624225 0
+68C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache133770949793054386 1
+80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr\struct.js133770948292354986 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.scandir\out133770947634996353 1
 136C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133770948238888701 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\namer-default\package.json133770948235944144 0
@@ -207,8 +215,6 @@
 116C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\css-file-selector-button.js133770948431953711 0
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\css-sticky.js133770948449524375 0
 78C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\index.js133770948278027430 0
-87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\parcel\src\.eslintrc.json133770948269374077 0
-82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\electron-to-chromium133770948280622325 1
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\postcss-value-parser\lib\unit.js133770948236054071 0
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\escape-string-regexp\package.json133770947617301609 0
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\detect-libc\LICENSE133770948232538753 0
@@ -224,6 +230,7 @@
 69C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel133770948676082019 1
 133C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\package.json133770948268598178 0
 123C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\outside.js133770948299589094 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\6d133770950708195046 1
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\clone\package.json133770948217813750 0
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lightningcss\node\index.mjs133770948281611219 0
 67C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\clone133770948238521378 1
@@ -286,6 +293,9 @@
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\dotenv-expand133770948264172466 1
 114C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\css-content-visibility.js133770948425559211 0
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\postcss-value-parser\package.json133770948242477208 0
+87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\parcel\src\.eslintrc.json133770948269374077 0
+82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\electron-to-chromium133770948280622325 1
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\2f\17a783369eef1724f5c2d62a96aad2d566a733133770950715945858 0
 77C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\email-addresses133770947634585306 1
 121C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-svg\node_modules\semver\functions\eq.js133770948279813960 0
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\nav-timing.js133770948577661649 0
@@ -413,6 +423,7 @@
 119C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc133770948242009921 1
 92C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\Validation.js133770948439149395 0
 134C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode.js133770948224535065 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\6d\98308070a07e101b0c9ed02fc442e9344b4e67133770950707916061 0
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\LICENSE133770948217893724 0
 142C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\ordered-binary\.nyc_output\processinfo\5b6bd808-0399-4ee6-9395-344688761dfa.json133770948264891728 0
 71C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\is-number133770947629245347 1
@@ -460,6 +471,7 @@
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\datalist.js133770948453549624 0
 78C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\base-x\README.md133770948232608014 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\term-size\index.js133770948242477208 0
+175C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\prepare-commit-msg.sample133770949816615505 0
 128C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\valid.js133770948320757812 0
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\packager-js\lib\ScopeHoistingPackager.js133770948292305014 0
 73C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\locate-path133770947632728787 1
@@ -568,8 +580,6 @@
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\nullthrows\LICENSE133770948218636385 0
 138C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\build-test.js133770948225047737 0
 76C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\semver\LICENSE133770947617341585 0
-95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\sni.js133770948590223418 0
-87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\type\float.js133770948276115372 0
 77C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml-parser133770948233657403 1
 113C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\constraint-validation.js133770948413095347 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\utility-types\dist\mapped-types.js133770948234317505 0
@@ -581,6 +591,7 @@
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\glob-parent\package.json133770947627211545 0
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\lib133770948325021003 1
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\http-server.js133770948299559109 0
+138C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git133770950714428959 1
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\react-error-overlay133770948264891728 1
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\LICENSE133770948218163565 0
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\react-refresh133770948266865777 1
@@ -589,6 +600,7 @@
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\watcher\src\shared\BruteForceBackend.cc133770948233279396 0
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\term-size\index.d.ts133770948268923913 0
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-react-refresh-wrap133770948266373718 1
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\df\ba82df0527b5cf31c1c9c56f067259c3ebc68d133770950700001849 0
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\scrollintoview.js133770948589863495 0
 115C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\node_modules\semver\functions\compare.js133770948265071781 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\AO.js133770948298847602 0
@@ -649,6 +661,7 @@
 97C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\woff2.js133770948591459677 0
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\trim-repeated133770947632588869 1
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\cosmiconfig\dist\cacheWrapper.js.map133770948284269535 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8b\a2a0b36f64cff0131dd5da8ce27560ac4fe882133770950699437041 0
 117C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_object_destructuring_empty\package.json133770948438989496 0
 79C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fastq\example.mjs133770947633968208 0
 121C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133770948324991139 0
@@ -665,6 +678,7 @@
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\cosmiconfig\LICENSE133770948217647050 0
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\utility-types133770948281671185 1
 127C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-js\node_modules\semver\functions\satisfies.js133770948309892945 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8b\e958f5f721d71f9e30132ec1deda8236a02bbf133770950705305056 0
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\run-parallel\package.json133770947626531909 0
 97C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\runtime-browser-hmr\LICENSE133770948232196416 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\CM.js133770948397728052 0
@@ -881,6 +895,7 @@
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fastq\LICENSE133770947617392114 0
 122C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\node_modules\semver\functions\lte.js133770948292731765 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\customevent.js133770948453439620 0
+175C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\sendemail-validate.sample133770949816625504 0
 122C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.d.ts.map133770948281651203 0
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js133770948233797377 0
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\type-fest\source\fixed-length-array.d.ts133770948283642400 0
@@ -970,6 +985,7 @@
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\template-literals.js133770948590463121 0
 78C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\find-up\index.js133770947626531909 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_class_private_method_init133770948434638607 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\02133770950718292957 1
 79C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\tslib\SECURITY.md133770948266273754 0
 114C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr-extract\node_modules\detect-libc\index.d.ts133770948242497197 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\MM.js133770948577421780 0
@@ -1010,6 +1026,7 @@
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\trim-repeated\package.json133770947617512080 0
 83C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fastq\test\example.ts133770947634098136 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\trim-repeated\readme.md133770947632668827 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\7d133770950697582948 1
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlparser2\lib\esm\Parser.js.map133770948291310103 0
 83C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lmdb\dependencies\lz4133770948280882320 1
 123C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-postcss\node_modules\semver\bin\semver.js133770948310537300 0
@@ -1092,11 +1109,13 @@
 129C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-svg\node_modules\semver\functions\prerelease.js133770948302264529 0
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\term-size\vendor\macos\term-size133770948233263981 0
 79C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.bin\gh-pages.cmd133770947643943095 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\df133770950700541530 1
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\react-error-overlay\lib\index.js133770948249816291 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\AM.js133770948296630691 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\parcel\node_modules\commander133770948281631208 1
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\browserslist\package.json133770948262634995 0
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\supports-color\browser.js133770948218596411 0
+148C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\info133770949816625504 1
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\micromatch\package.json133770947628461478 0
 113C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133770948321377371 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\supports-color\index.js133770948219998140 0
@@ -1151,6 +1170,7 @@
 92C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fs-extra\lib\copy\copy-sync.js133770947624986012 0
 83C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\schema.js133770948297807743 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\p-locate\readme.md133770947632838764 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8f\5de870404b1dff655d370f70387df9796589c4133770950707533728 0
 90C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\cache\lib\FSCache.js133770948219567777 0
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lines-and-columns\LICENSE133770948217692898 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\optimizer-image133770948225097707 1
@@ -1316,6 +1336,7 @@
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\entities\lib133770948298365091 1
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlnano\lib\helpers.cjs133770948269536684 0
 90C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fs-extra\lib\mkdirs\index.js133770947634305326 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\09133770950719323559 1
 111C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.d.ts133770948283672150 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\src\constants.js133770948355657340 0
 119C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133770948355930991 0
@@ -1340,7 +1361,6 @@
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr\dist\index-no-eval.cjs133770948225557677 0
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\entities\LICENSE133770948217853755 0
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\ordered-binary\package.json133770948275890937 0
-138C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133770948275900934 0
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\entities\lib\decode.js133770948240379798 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\MZ.js133770948577631655 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\picocolors\LICENSE133770948217559354 0
@@ -1400,6 +1420,7 @@
 111C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\domutils\lib\stringify.d.ts133770948295379334 0
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133770948355577382 0
 90C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr-extract\binding.gyp133770948224415134 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\f6133770950673901303 1
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\commander\Readme.md133770947634565405 0
 115C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\domutils\lib\traversal.d.ts.map133770948284499513 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\domhandler\lib133770948265241686 1
@@ -1429,6 +1450,7 @@
 121C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133770948312454192 0
 144C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js133770948218801388 0
 105C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133770948271986350 0
+138C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133770948275900934 0
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fast-glob\out\readers\stream.d.ts133770947636318302 0
 105C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.scandir\out\providers\sync.d.ts133770947635107718 0
 120C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\posthtml\node_modules\dom-serializer\lib\foreignNames.d.ts133770948280942296 0
@@ -1508,6 +1530,7 @@
 84C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\path-exists\index.d.ts133770947617572041 0
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\dom-serializer\lib\index.d.ts.map133770948276185295 0
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\path-exists\index.js133770947624716166 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\82133770950708893262 1
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_read_only_error.js133770948425118620 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\is-number\index.js133770947617612209 0
 114C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js133770948453629508 0
@@ -1562,6 +1585,7 @@
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\types\LICENSE133770948217733581 0
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\parcel\node_modules\commander\typings133770948283662112 1
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_apply_decorated_descriptor.js133770948356515346 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\09\3f560316565598944de45b1d84103449a8cbb1133770950718809063 0
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\parcel\node_modules\commander\lib\command.js133770948234047329 0
 104C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\parcel\node_modules\commander\lib\error.js133770948238541366 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-css133770948236733721 1
@@ -1631,6 +1655,7 @@
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\ordered-binary\tests133770948238671340 1
 124C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-posthtml\node_modules\semver\bin\semver.js133770948310052922 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\webhid.js133770948591129875 0
+156C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\info133770949816675463 1
 119C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133770948218466488 0
 90C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\ordered-binary\tests\test.js133770948240048297 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\dist\lib\supported.js133770948590333206 0
@@ -1639,6 +1664,7 @@
 130C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\ordered-binary\.nyc_output\5b6bd808-0399-4ee6-9395-344688761dfa.json133770948261496726 0
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\ansi-styles\index.js133770948218606405 0
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\domutils\lib\helpers.d.ts133770948330028183 0
+158C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\COMMIT_EDITMSG133770950721129863 0
 111C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\ordered-binary\.nyc_output\processinfo\index.json133770948268598178 0
 116C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-babel\node_modules\semver\index.js133770948291290116 0
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\ordered-binary\.idea\modules.xml133770948281611219 0
@@ -1653,6 +1679,7 @@
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\findLimit.js133770947636734701 0
 114C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_tagged_template_literal\package.json133770948439439234 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr\README.md133770948344351271 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\ae133770950706008869 1
 108C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\multibackgrounds.js133770948577551704 0
 128C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\parse.js133770948300396707 0
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\domutils\lib\querying.js133770948280722455 0
@@ -1702,6 +1729,7 @@
 138C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\detect-libc.js133770948219121203 0
 112C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\reporter-dev-server\src\templates\404.html133770948238711273 0
 134C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133770948232982687 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\13\1208f86d1f2492bca3b10c879324917c042024133770950715276096 0
 90C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\source-map\README.md133770948294293872 0
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\node-addon-api\except.gypi133770948233269173 0
 84C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fast-glob\package.json133770947635827298 0
@@ -1767,6 +1795,7 @@
 137C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133770948248935307 0
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\deviceorientation.js133770948453669486 0
 78C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\merge2\README.md133770947632548893 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8f133770950707895584 1
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-js\node_modules\.bin\semver133770948591845101 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\lib\Wrapper.js133770948242156911 0
 107C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr-extract\node_modules\detect-libc\lib133770948232628009 1
@@ -1817,7 +1846,6 @@
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr\rollup.config.js133770948291524065 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr\stream.js133770948292023875 0
 90C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlnano\docs\versioned_docs133770948330058187 1
-80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr\struct.js133770948292354986 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr\test-worker.js133770948293333962 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\test\sourcemap.test.js133770948355920997 0
 83C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\msgpackr\unpack.d.cts133770948272086298 0
@@ -2039,6 +2067,7 @@
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\cjs\_async_to_generator.cjs133770948275900934 0
 79C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\jsonfile\index.js133770947617861558 0
 105C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\online-status.js133770948577861589 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\fd133770950698072678 1
 78C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\jsonfile\LICENSE133770947617472110 0
 126C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-posthtml\node_modules\semver\functions\eq.js133770948279813960 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\entities\lib\esm\decode_codepoint.js133770948224605030 0
@@ -2112,6 +2141,8 @@
 113C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\credential-management.js133770948423400333 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\PR.js133770948578091449 0
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\type.js133770948301535176 0
+95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\sni.js133770948590223418 0
+87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\type\float.js133770948276115372 0
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\type\omap.js133770948295389344 0
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\type\pairs.js133770948296620483 0
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\test133770948327209724 1
@@ -2122,6 +2153,7 @@
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\type\set.js133770948299110288 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\type\str.js133770948299659041 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\schema\default.js133770948240841630 0
+167C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\commit-msg.sample133770949816565537 0
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\js-yaml\lib\schema\json.js133770948291420079 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\entities\lib\esm\generated\encode-html.js133770948278607747 0
 126C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-js\node_modules\semver\classes\comparator.js133770948238731265 0
@@ -2143,6 +2175,7 @@
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fs-extra\lib\mkdirs133770947635397544 1
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fs-extra\lib\empty133770947633544009 1
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\src\_jsx.mjs133770948447245157 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\81133770950710088775 1
 84C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\is-number\package.json133770947617341585 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\is-json\.npmignore133770948218496480 0
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\is-json\.travis.yml133770948236983580 0
@@ -2189,6 +2222,7 @@
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\is-arrayish\package.json133770948217687033 0
 83C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\is-arrayish\README.md133770948219978147 0
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\import-fresh\license133770948217616920 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\b2\34d5a7d92d67e26b89ae42b85ee09d90e13230133770950720620137 0
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fastq\.github133770947634425542 1
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\import-fresh\package.json133770948219958170 0
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\fast-glob\out\readers\reader.d.ts133770947636258469 0
@@ -2248,6 +2282,7 @@
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlparser2\lib\esm\index.js.map133770948281691238 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlparser2\lib\esm\Parser.d.ts133770948301554940 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlparser2\lib\esm\Parser.js133770948234057322 0
+157C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\Papel.663618e1.png133770950714488956 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlparser2\lib\esm\Tokenizer.d.ts133770948302737322 0
 108C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-postcss\lib\loadPlugins.js133770948242236764 0
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlparser2\lib\esm\Tokenizer.d.ts.map133770948292023875 0
@@ -2395,6 +2430,7 @@
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\lib\process133770948301535176 1
 118C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133770948344270627 0
 122C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133770948355517422 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\02\9893e2fb5de004c50984cdd339f3e17a11ac29133770950698877362 0
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlnano\docs\docs\010-introduction.md133770948327209724 0
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlnano\docs\docs\040-presets.md133770948344703163 0
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\htmlnano\docs\docs\050-modules.md133770948351647542 0
@@ -2651,6 +2687,7 @@
 131C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-svg\node_modules\semver\internal\parse-options.js133770948299679033 0
 104C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\src\core-worker.browser.js133770948280702374 0
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\iframe-sandbox.js133770948509561683 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\87\e954a6ca6ff94e715e565fc4297384e69c3cca133770950721139839 0
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133770948238531371 0
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\entities\lib\encode.js.map133770948320587330 0
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\entities\lib\escape.d.ts133770948351557505 0
@@ -2694,6 +2731,7 @@
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\entities\lib\esm\generated\decode-data-html.d.ts133770948331603284 0
 124C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_class_static_private_field_update\package.json133770948434772332 0
 108C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133770948218173564 0
+173C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\logs\refs\remotes\origin\main133770950713006394 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\events\src\ValueEmitter.js133770948284149754 0
 111C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\entities\lib\esm\generated\decode-data-xml.js.map133770948300396707 0
 105C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\entities\lib\esm\generated\encode-html.d.ts133770948344553185 0
@@ -2804,6 +2842,7 @@
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\src\_extends.mjs133770948446233927 0
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\commondir\example\dir.js133770947632668827 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_using\package.json133770948439936093 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\57\8f8f387e1514d173256158db0454b4209db5d8133770950704928497 0
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\events\lib\Disposable.js133770948261456758 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\domhandler\lib\index.js133770948225357692 0
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\domhandler\lib\node.d.ts133770948284039673 0
@@ -2854,6 +2893,7 @@
 77C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\detect-libc\bin133770948234467514 1
 77C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\detect-libc\lib133770948238681325 1
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_interop_require_default133770948438213953 1
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\83\31449b3eb289deb3755d91ae4ca726e3fb6357133770950708913118 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\DZ.js133770948453972234 0
 83C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\detect-libc\README.md133770948220038273 0
 92C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\types-internal\LICENSE133770948218163565 0
@@ -2943,6 +2983,7 @@
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\chrome-trace-event\dist\trace-event.js133770948217933693 0
 121C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_class_static_private_field_destructure.js133770948410274378 0
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\chalk\license133770948217873723 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\13133770950715885886 1
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\chalk\package.json133770948236154014 0
 79C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\anyLimit.js133770947633314010 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\types-internal\src\SemverRange.js133770948281313506 0
@@ -3028,6 +3069,7 @@
 77C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\README.md133770947642034285 0
 104C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\src\requests\TargetRequest.js133770948438213953 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\GI.js133770948492656061 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\FETCH_HEAD133770950713016391 0
 117C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-html\node_modules\semver\preload.js133770948301874765 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\GL.js133770948493597952 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\GN.js133770948493767872 0
@@ -3081,6 +3123,7 @@
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\MT.js133770948577531736 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\MW.js133770948577601677 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\MY.js133770948577621666 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\9a\c6477f2ac7952def8305035df768f480e45f25133770950710922532 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\NA.js133770948577641658 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\regions\NC.js133770948577671632 0
 125C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-html\node_modules\semver\ranges\simplify.js133770948312516338 0
@@ -3220,6 +3263,7 @@
 121C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json133770948434258640 0
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_construct\package.json133770948434841767 0
 133C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-html\node_modules\semver\functions\compare-loose.js133770948261757327 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\bc\e5af9554dc0d4b181e81dfa0f68a9187cbe1e6133770950707140318 0
 108C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\childnode-remove.js133770948386687480 0
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\classlist.js133770948397408163 0
 123C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js133770948397478146 0
@@ -3365,6 +3409,7 @@
 105C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\css-when-else.js133770948452073180 0
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\css-widows-orphans.js133770948452083172 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_defaults.js133770948413035577 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\d4133770950712214396 1
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\css-width-stretch.js133770948452103156 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\runtime-service-worker\src133770948225467632 1
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\css-zoom.js133770948452173110 0
@@ -3533,6 +3578,7 @@
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\multicolumn.js133770948577561716 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\argparse\README.md133770948265241686 0
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\push-api.js133770948581633377 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\03\8dc1b8bb378abdba79e4228409e77e931d66de133770950706028737 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_decorate.js133770948412905845 0
 130C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-js\node_modules\semver\internal\parse-options.js133770948299689223 0
 107C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\mutation-events.js133770948577571714 0
@@ -3579,6 +3625,7 @@
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\picture-in-picture.js133770948578011506 0
 156C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\index.json133770948439419247 0
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\picture.js133770948578021496 0
+158C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\Tijera.79d79eab.png133770950714498915 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\ping.js133770948578021496 0
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\png-alpha.js133770948578051481 0
 115C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js133770948294483749 0
@@ -3677,6 +3724,7 @@
 112C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\wasm-mutable-globals.js133770948590969966 0
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\wasm-relaxed-simd.js133770948590999946 0
 107C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\wasm-tail-calls.js133770948591009933 0
+149C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\index133770950721119850 0
 120C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-posthtml\node_modules\semver\README.md133770948322330274 0
 104C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\wasm-threads.js133770948591019937 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\caniuse-lite\data\features\webgpu.js133770948591119876 0
@@ -3735,10 +3783,9 @@
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\base-x\package.json133770948218821378 0
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\base-x\src\index.js133770948217943681 0
 79C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\allLimit.js133770947629235359 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\9a133770950711674848 1
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\allSeries.js133770947632718795 0
 74C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\any.js133770947633143058 0
-124C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\package.json133770948292354986 0
-80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\anySeries.js133770947633544009 0
 76C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\apply.js133770947633694373 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\applyEach.js133770947633824586 0
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\auto.js133770947635377559 0
@@ -3796,6 +3843,7 @@
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\graph\lib\AdjacencyList.js133770948261927308 0
 78C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\memoize.js133770947641424222 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\package.json133770947641974349 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8a\d02ef25237f4766fc8b2929c7c51e31b02b064133770950703654665 0
 79C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\parallel.js133770947641474249 0
 117C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\cjs\_class_check_private_static_access.cjs133770948291430022 0
 84C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\priorityQueue.js133770947641504220 0
@@ -3819,9 +3867,11 @@
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\events\lib\index.js133770948279583562 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\someLimit.js133770947641743571 0
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\someSeries.js133770947641753868 0
+163C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\refs\heads\gh-pages133770950721470915 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_type_of133770948439756195 1
 78C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\timeout.js133770947641764105 0
 76C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\times.js133770947641774077 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\02\e74f5e00d4dd0bc3095dc05626965c16898a07133770950717754318 0
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\timesLimit.js133770947641794515 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\transform.js133770947641824413 0
 92C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\cjs\_inherits.cjs133770948325521757 0
@@ -3835,6 +3885,7 @@
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\internal\awaitify.js133770947635507488 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\internal\consoleFunc.js133770947635947206 0
 92C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\internal\createTester.js133770947635997167 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\7d\9410bf7e8062b53cad46e8ec9bdbe7fc27c984133770950697090281 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\internal\DoublyLinkedList.js133770947636188336 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\async\internal\getIterator.js133770947641157902 0
 108C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\cjs\_class_private_method_set.cjs133770948300356648 0
@@ -3964,6 +4015,7 @@
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_super_prop_base\package.json133770948439389266 0
 97C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_update\package.json133770948439846146 0
 120C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_unsupported_iterable_to_array\package.json133770948439806168 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\23133770950707120332 1
 122C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\node_modules\semver\classes\index.js133770948291100268 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_type_of\package.json133770948439756195 0
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_ts_decorate\package.json133770948439591781 0
@@ -4031,6 +4083,7 @@
 112C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_await_async_generator\package.json133770948432173586 0
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_async_to_generator\package.json133770948432153598 0
 115C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133770948432073646 0
+163C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\refs\remotes\origin133770950748740306 1
 120C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\node_modules\semver\internal\parse-options.js133770948299699019 0
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_possible_constructor_return.js133770948425088639 0
 107C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133770948233787376 0
@@ -4144,6 +4197,7 @@
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_is_native_function.js133770948423520260 0
 124C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-html\node_modules\semver\internal\debug.js133770948276010880 0
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_iterable_to_array.js133770948423590228 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a0\9edd0bd25a9d7b5755ae256cfe857a31b4c271133770950674573755 0
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_iterable_to_array_limit.js133770948423580227 0
 112C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_iterable_to_array_limit_loose.js133770948423550270 0
 104C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@babel\helper-validator-identifier\LICENSE133770948216812410 0
@@ -4165,6 +4219,7 @@
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_ts_generator.js133770948425429297 0
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_update.js133770948425589197 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_wrap_async_generator.js133770948425669150 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8a133770950704223643 1
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\esm\_write_only_error.js133770948425749099 0
 108C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\cjs\_class_private_method_get.cjs133770948299328523 0
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\helpers\cjs\_apply_decorated_descriptor.cjs133770948218731457 0
@@ -4227,6 +4282,7 @@
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\core\index.d.ts133770948240048297 0
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\core\spack.d.ts133770948276135343 0
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\watcher\src\wasm\WasmBackend.hh133770948304646646 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\f3133770950676984992 1
 84C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@swc\core\package.json133770948265061790 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\bundler-default133770948263001817 1
 75C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\cache133770948281671185 1
@@ -4286,6 +4342,7 @@
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\src\Worker.js133770948325000997 0
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\src\WorkerFarm.js133770948327179759 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\src\web\WebWorker.js133770948321157712 0
+173C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\pre-merge-commit.sample133770949816595518 0
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133770948311801473 0
 105C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\src\process\ProcessChild.js133770948300456867 0
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\lib\bus.js133770948233767388 0
@@ -4293,6 +4350,7 @@
 90C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\lib\child.js133770948248108503 0
 111C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133770948281882486 0
 104C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\lib\core-worker.browser.js133770948279227470 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a5\cddd8377114d8268f718868d61597cd5804230133770950704323577 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\lib\core-worker.js133770948281002778 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\lib\Handle.js133770948291554048 0
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\workers\lib\threads133770948310052922 1
@@ -4327,6 +4385,7 @@
 128C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-posthtml\node_modules\semver\functions\sort.js133770948312576176 0
 113C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml133770948397708045 0
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\watcher\src\unix133770948280922312 1
+167C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\pre-rebase.sample133770949816605514 0
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\watcher\src\wasm133770948304456351 1
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\watcher\src\windows\win_utils.cc133770948291280153 0
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\watcher\src\windows\win_utils.hh133770948309992908 0
@@ -4357,6 +4416,7 @@
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\countLines.js133770948281681184 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\debounce.js133770948283481798 0
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\svgo.js133770948355990954 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\81\46adb24b4b6e74ee63469f9612745c869c7012133770950709697898 0
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\graph\lib\types.js133770948298038663 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\Deferred.js133770948291210163 0
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\dependency-location.js133770948291449059 0
@@ -4377,6 +4437,7 @@
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\path.js133770948351547512 0
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\prettyDiagnostic.js133770948352356846 0
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\relativeUrl.js133770948355637351 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\b6\e1140b377115ee909ca9dd2693ee2eef79d153133770950703124970 0
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\test\PublicAsset.test.js133770948425389488 0
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\utils\src\progress-message.js133770948355148984 0
 117C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json133770948439756195 0
@@ -4450,6 +4511,7 @@
 135C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js133770948238898690 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-raw\package.json133770948233767388 0
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-raw\src133770948225437665 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\57133770950705305056 1
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-posthtml\lib133770948233523438 1
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-posthtml\node_modules133770948591775154 1
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-posthtml\package.json133770948241053230 0
@@ -4545,6 +4607,7 @@
 122C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-js\node_modules\semver\functions\diff.js133770948277695327 0
 121C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-js\node_modules\semver\functions\gte.js133770948281103678 0
 121C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-js\node_modules\semver\functions\inc.js133770948284499513 0
+172C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\refs\remotes\origin\gh-pages133770950748700336 0
 120C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-js\node_modules\semver\functions\lt.js133770948292275031 0
 121C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-js\node_modules\semver\functions\lte.js133770948292731765 0
 112C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\runtime-js\src\helpers\node\html-loader.js133770948295369353 0
@@ -4585,6 +4648,7 @@
 125C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-html\node_modules\semver\functions\valid.js133770948320667919 0
 128C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-html\node_modules\semver\classes\comparator.js133770948238888701 0
 111C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-html\node_modules\.bin\semver133770948591845101 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\55133770950697070282 1
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\readers\common.d.ts133770947634916539 0
 115C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-html\node_modules\.bin\semver.ps1133770948591845101 0
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\transformer-html\lib\dependencies.js133770948224305202 0
@@ -4815,6 +4879,7 @@
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\packager-raw\package.json133770948233857339 0
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\packager-raw\lib\RawPackager.js133770948219848389 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\packager-js\lib133770948294839662 1
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\e2\ea79b2cec630bfd909a69a419b9f34b6fb6273133770950675166500 0
 85C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\packager-js\src133770948297518117 1
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\packager-js\src\.eslintrc.json133770948297787830 0
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\bundler-default\lib133770948233652256 1
@@ -4859,6 +4924,7 @@
 120C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\test\fixtures\has-foo\package.json133770948310537300 0
 118C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage133770948312496205 1
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.bin\node-gyp-build-optional-packages.ps1133770948591855091 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8b\975796bf2de6412328c8be1bc6709222991bbf133770950717079014 0
 108C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\node_modules\semver\bin\semver.js133770948310497326 0
 124C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133770948309752346 1
 129C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\index.js133770948281002778 0
@@ -4904,6 +4970,7 @@
 124C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\node_modules\semver\functions\valid.js133770948320657860 0
 123C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\node_modules\semver\classes\semver.js133770948310898985 0
 114C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\node_modules\.bin\semver.cmd133770948591845101 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\4c133770950718739096 1
 114C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\node_modules\.bin\semver.ps1133770948591845101 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\package-manager\lib\index.js133770948268458732 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\optimizer-swc\LICENSE133770948218366539 0
@@ -4926,11 +4993,13 @@
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\LICENSE133770948218143562 0
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules133770948591765147 1
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\package.json133770948261626681 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a5\cc4d6688b514cc5d19f3860f010b6acc560ba0133770950710098755 0
 106C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\.bin133770948591805141 1
 112C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\bin133770948309972892 1
 116C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\classes133770948310527237 1
 118C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\functions133770948320607340 1
 117C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\index.js133770948291280153 0
+159C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\logs\refs\heads133770950721470915 1
 116C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\LICENSE133770948217883725 0
 121C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\package.json133770948320957829 0
 118C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\range.bnf133770948218646385 0
@@ -4949,6 +5018,7 @@
 127C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\clean.js133770948224535065 0
 125C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\cmp.js133770948232578676 0
 124C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\eq.js133770948279803958 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\f2\d509433fa182f8952eadf99b5bcf112d397811133770950700661470 0
 125C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\gte.js133770948281093421 0
 125C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\inc.js133770948284289528 0
 124C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\lt.js133770948292073841 0
@@ -5010,6 +5080,7 @@
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\fs\lib\types.d.ts133770948299589094 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\feature-flags\package.json133770948272086298 0
 87C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\feature-flags\src133770948266373718 1
+149C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\index.html133770950714448945 0
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\feature-flags\test\feature-flags.test.js133770948236753719 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\feature-flags\src\index.js133770948261456758 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\feature-flags\lib\types.d.ts133770948276225249 0
@@ -5168,6 +5239,7 @@
 111C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\node_modules\semver\classes\index.js133770948291120462 0
 112C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\node_modules\semver\classes\semver.js133770948311791481 0
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\node_modules\.bin\semver133770948591845101 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\fd\5189463eda4f1d29740adf72bc924b0c62a276133770950697612941 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\node_modules\.bin\semver.cmd133770948591845101 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\node_modules\.bin\semver.ps1133770948591845101 0
 95C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\applyRuntimes.js133770948294779704 0
@@ -5189,12 +5261,14 @@
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\SymbolPropagation.js133770948434288670 0
 105C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\TargetDescriptor.schema.js133770948434649372 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\UncommittedAsset.js133770948438949519 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\49\0a4b6e826b2bb1e58c62a27863d2b0ac5263fc133770950698102661 0
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\worker.js133770948439269348 0
 108C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\requests\AssetGraphRequest.js133770948310286047 0
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\requests\BundleGraphRequest.js133770948337210439 0
 104C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\requests\DevDepRequest.js133770948355851043 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\requests\EntryRequest.js133770948355990954 0
 105C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\requests\PackageRequest.js133770948406211094 0
+156C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\refs\remotes133770950712976410 1
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133770948413025581 0
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\requests\ParcelConfigRequest.js133770948424861572 0
 110C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js133770948439389266 0
@@ -5211,6 +5285,7 @@
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\codeframe\test\codeframe.test.js133770948300476575 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\codeframe\test\fixtures133770948219477688 1
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\codeframe\src\codeframe.js133770948299599075 0
+168C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\logs\refs\heads\gh-pages133770950721470915 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\codeframe\lib\codeframe.js133770948299115376 0
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\codeframe\lib\codeframe.js.map133770948334118437 0
 86C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\cache\index.d.ts133770948281711166 0
@@ -5222,6 +5297,7 @@
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\cache\src\types.js133770948280652303 0
 99C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\cache\lib\IDBCache.browser.js133770948235444096 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\cache\lib\IDBCache.js133770948242034690 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\e2133770950675789841 1
 92C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\cache\lib\LMDBCache.js133770948272126272 0
 90C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\cache\lib\types.d.ts133770948283662112 0
 93C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@parcel\bundler-default\LICENSE133770948225627538 0
@@ -5234,11 +5310,13 @@
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\types133770947635087830 1
 97C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\types\index.js133770947633694373 0
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\readers\reader.d.ts133770947635107718 0
+164C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\Papel-objeto.06c98aae.png133770950714448945 0
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\readers\sync.js133770947634335585 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\providers\async.d.ts133770947634675249 0
 101C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\providers\async.js133770947621759027 0
 103C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\providers\index.d.ts133770947635037806 0
 102C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.walk\out\providers\stream.js133770947634159152 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\25\ea3bd8b5cab9247d530da331d070cdeee96a3d133770950694262046 0
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.stat\out133770947634475364 1
 88C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.stat\README.md133770947634028187 0
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.stat\out\adapters133770947634169164 1
@@ -5251,6 +5329,7 @@
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.scandir\package.json133770947634299145 0
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.scandir\out\adapters133770947634595313 1
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.scandir\out\constants.d.ts133770947634575298 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\49133770950698857380 1
 98C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.scandir\out\constants.js133770947632963154 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.scandir\out\index.d.ts133770947634916539 0
 94C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@nodelib\fs.scandir\out\index.js133770947633714511 0
@@ -5283,6 +5362,7 @@
 91C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@lezer\common\dist\index.d.ts133770948270588031 0
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@lezer\common\dist\index.js133770948242236764 0
 79C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@babel\code-frame133770948235954138 1
+160C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\index.9cbcf972.js.map133770950714448945 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@babel\helper-validator-identifier133770948263001817 1
 100C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@babel\helper-validator-identifier\lib133770948261376801 1
 109C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@babel\helper-validator-identifier\package.json133770948264172466 0
@@ -5295,6 +5375,77 @@
 92C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@babel\code-frame\package.json133770948236863789 0
 89C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@babel\code-frame\README.md133770948218536528 0
 96C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\@babel\code-frame\lib\index.js.map133770948233202622 0
+77C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages133770949816515795 1
+143C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git133770950721490875 1
+156C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\index.9cbcf972.js133770950714438955 0
+165C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\Piedra-objeto.6799ee39.png133770950714448945 0
+158C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\Piedra.da1dee34.png133770950714448945 0
+165C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\Tijera-objeto.636e5577.png133770950714458941 0
+150C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\config133770950720165683 0
+155C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\description133770949816545553 0
+148C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\HEAD133770950714109140 0
+149C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks133770949816625504 1
+148C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\logs133770950721470915 1
+151C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects133770950721647139 1
+148C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\refs133770950712966585 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\refs\heads133770950721480879 1
+153C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\refs\tags133770949834888213 1
+168C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\refs\remotes\origin\main133770950712986413 0
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\03133770950706451257 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\11133770950708563100 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\25133770950695342907 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\2f133770950716440667 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\42133770950701864743 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\83133770950709231738 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\87133770950721450914 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8b133770950717603956 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8c133770950702294486 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a0133770950674996594 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a2133770950674234388 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a4133770950706782024 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a5133770950710902480 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\b2133770950721109856 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\b6133770950703554713 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\b8133770950703114974 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\bc133770950707523383 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\c7133770950719676386 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\cd133770950716999009 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\e7133770950715236123 1
+154C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\f2133770950701314956 1
+156C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\pack133770949816665470 1
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\f6\d95fc1a3516e70e30349b3433adfe3690026a6133770950673451660 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\f3\3813fb98f4476543d9528f529a91050292bfb7133770950676423817 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\e7\40f49217208ba05b4ed080b1e3dfc20fb05446133770950714708794 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\e2\a3208a3ae5c724a3fc91e2974b1ebbecdb8310133770950674244361 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\d4\c6e3d6d97005360617ae8d430ff70608fe5b09133770950711704327 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\cd\0e1433cc9c96277e22266aeef3ae5b11c32553133770950716546619 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\cd\910a025205ee0baca4634343b322de2f33ca0c133770950695472829 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\c7\07cad1f158bff187e7f1b8c220291ad13d3e28133770950719361311 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\b8\83ec858a84f51c387d75ece59fa143abb2a568133770950702414426 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\ae\a79b43c45d73a19998d9479951e3e0c90b6a16133770950705692923 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a5\4e78f0f45b00e7138d771547364160e41a8dda133770950710547380 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a4\71a12f2d0084e77f87901d9b8ec036ff1602c0133770950706471385 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\a2\2cea7d99fe4057d9cf1cec1a43e574afb25b4f133770950673911058 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8c\ff0339d7cccdf8932799368a8051913a1b450b133770950701874736 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\8b\20de081c1132b461a8efc29669f2baa6a4b5eb133770950709251731 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\82\6900d5ba91e5d49251eed8e08dd70af6fc8357133770950708583043 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\55\b9f509dfffef88f4e95d4446095bc529a31078133770950696490603 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\4c\be802f3235644c8ba58071833e30579226cfac133770950718342938 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\42\6af90e81c64d695dbeffd0315d2d3233ecdda6133770950701334756 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\23\7551c484a4a5e8e3352c1b4f30fa397c297adc133770950706802197 0
+193C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\objects\11\96090ef839e136d4e46cd6d5b072f578c4e358133770950708204728 0
+153C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\logs\HEAD133770950721470915 0
+153C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\logs\refs133770950721470915 1
+161C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\logs\refs\remotes133770950712996407 1
+156C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\info\exclude133770949816625504 0
+175C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\fsmonitor-watchman.sample133770949816576007 0
+168C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\post-update.sample133770949816576007 0
+171C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\pre-applypatch.sample133770949816585524 0
+167C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\pre-commit.sample133770949816585524 0
+165C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\pre-push.sample133770949816595518 0
+168C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\pre-receive.sample133770949816605514 0
+173C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\push-to-checkout.sample133770949816625504 0
+163C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.cache\gh-pages\git@github.com!JuanmaDiFlorio44!Desf-Piedra-Papel-Tijera.git\.git\hooks\update.sample133770949816625504 0
 83C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.bin\browserslist.cmd133770948591845101 0
 78C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.bin\detect-libc133770948591855091 0
 82C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\node_modules\.bin\detect-libc.cmd133770948591855091 0
@@ -5323,9 +5474,8 @@
 73C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\dist\Tijera.0531f117.png133770949098523059 0
 72C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\index.9cbcf972.js133770949738381182 0
 76C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\index.9cbcf972.js.map133770949738411161 0
-65C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\index.html133770949738381182 0
+65C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\index.html133770953267675200 0
 80C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\Papel-objeto.06c98aae.png133770949738221241 0
 73C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\Papel.663618e1.png133770949738221241 0
 81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\Piedra-objeto.6799ee39.png133770949736834228 0
 74C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\Piedra.da1dee34.png133770949736594241 0
-81C:\Users\Juanma\Desktop\Desf-Piedra-Papel-Tijera\build\Tijera-objeto.636e5577.png133770949736624225 0
