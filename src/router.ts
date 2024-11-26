@@ -1,9 +1,3 @@
-// src/router.ts
-import { HomePage } from "./pages/HomePage";
-import { GamePage } from "./pages/GamePage";
-import { ResultPage } from "./pages/ResultPage";
-import { CountdownPage } from "./pages/countdown";
-
 export class Router {
   routes: { [key: string]: Function } = {};
 
@@ -29,6 +23,8 @@ export class Router {
     window.addEventListener("popstate", () => {
       this.render(window.location.pathname);
     });
-    this.render(window.location.pathname);
+    const initialPath =
+      window.location.pathname === "/" ? "/HomePage" : window.location.pathname;
+    this.render(initialPath);
   }
 }

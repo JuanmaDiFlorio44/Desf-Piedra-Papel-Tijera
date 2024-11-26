@@ -6,7 +6,7 @@ import { CountdownPage } from "./pages/countdown";
 
 const router = new Router();
 
-router.addRoute("/", () => {
+router.addRoute("/HomePage", () => {
   HomePage(router);
 });
 
